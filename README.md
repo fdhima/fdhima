@@ -1,36 +1,28 @@
 # Florjan Dhima
 
-Software Engineer based in Greece. I focus on backend development, data-driven applications, and infrastructure automation.
+Backend Engineer based in Greece · BSc @ Informatics GPA 8.83/10
 
-- Currently building a Spring Boot Inventory Management System with PostgreSQL, JWT auth, and RabbitMQ
-- Experienced with VM provisioning and automation using Proxmox
-- Interested in cybersecurity, SSI authentication, and detection engineering
-- BSc in Informatics, Ionian University — GPA 8.83/10, top 3% of class
-- Contact: dflorian251@gmail.com
-
----
 
 ## Tech Stack
 
-**Languages:** Python · Java · TypeScript · JavaScript · SQL · PHP
+**Backend:** Python · FastAPI · SQLAlchemy · REST APIS · Typescript · C/C++
 
-**Frameworks & Tools:** Spring Boot · Streamlit · React · Docker · RabbitMQ · Linux · Proxmox · Git
+**Databases:** PostgreSQL, SQLite, MySQL
+
+**DevOps**: Docker, Linux, Git, Github Actions, Proxmox
 
 **Data & ML:** Pandas · scikit-learn
 
 ---
 
 ## Projects
-
+ 
 | Project | Description | Stack |
 |---|---|---|
-| [Inventory Management System](https://github.com/fdhima/inventory-management) | REST API with JWT auth, RBAC, stock tracking, and low-stock notifications | Java, Spring Boot, PostgreSQL, RabbitMQ |
-| [Coffee Roast AI](https://github.com/fdhima/coffee-roast-ai) | Image recognition model that classifies coffee bean roast levels | Python, Jupyter |
-| [HAHE Analysis](https://github.com/fdhima/hahe-analysis) | Data collection, cleaning, and statistical analysis of the Hellenic Authority for Higher Education | Python, Pandas |
-| [StreamML](https://github.com/dflorian251/Decision-Support-Systems) | Interactive ML app for K-Means and Hierarchical Clustering analysis | Python, Streamlit |
-| [Marketing DSS](https://marketing-dss.streamlit.app/) | Decision Support System using Random Forest for predictive marketing analytics | Python, Streamlit, scikit-learn |
-| [Trello Clone](https://github.com/dflorian251/Internet-Technologies) | Full-stack task management app with auth, CRUD, assignments, and push notifications | JavaScript, PHP, MySQL |
-
+| [SigmaForge](https://github.com/fdhima/sigmaforge) | REST API for managing and converting Sigma detection rules to SIEM query languages (Splunk SPL, EQL, QRadar, KQL). Full-text search, pagination, and pytest integration tests. | FastAPI, async SQLAlchemy, PostgreSQL 16, Alembic, JWT, Docker Compose, GitHub Actions |
+| [Coffee Roast AI](https://github.com/fdhima/coffee-roast-ai) | End-to-end image classification app (Dark/Medium/Light/Green roast). Fine-tuned MobileNetV2 served via a FastAPI inference endpoint; full stack packaged in a multi-stage Docker image. | Python, FastAPI, MobileNetV2, React, Docker |
+| [HAHE Analysis](https://github.com/fdhima/hahe-analysis) | Data analysis pipeline for Greek higher-education datasets. | Python, Pandas, NumPy, Matplotlib |
+ 
 ---
 
 ## Experience
