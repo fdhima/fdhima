@@ -27,7 +27,7 @@ Backend Engineer based in Greece · BSc @ Informatics GPA 8.83/10
 
 ## Experience
 
-**Software Developer — PDMFC** (Sep 2024 – Dec 2025)
+**Full Stack Developer — PDMFC** (Sep 2024 – Dec 2025)
 REST API development, Sigma rule detection pipelines, Proxmox VM automation, SSI authentication, and database schema design.
 
 **Software Developer Intern — CWA** (Jul 2024 – Sep 2024)
